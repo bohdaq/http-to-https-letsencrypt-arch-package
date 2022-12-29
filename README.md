@@ -26,5 +26,5 @@ Replace _VERSION_ with version you've built.
 
 Press Ctrl + C (or CMD + C) to stop server.
 
-### To remove http-to-https-letsencrypt-arch-package:
+### To remove http-to-https-letsencrypt:
 > pacman -Rs http-to-https-letsencrypt
